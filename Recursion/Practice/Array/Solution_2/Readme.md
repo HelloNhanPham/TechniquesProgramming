@@ -19,3 +19,8 @@ Approach: If we take a look at this problem carefully, we can see that the idea 
 Well, one possibility is the use of ‘recursion‘, provided we use the terminating condition carefully. Here is a solution that prints numbers using recursion. 
 
 ---------------------------------------------------------------------------------------
+
+Time Complexity: O(n)
+Auxiliary Space: O(n)
+
+---------------------------------------------------------------------------------------
